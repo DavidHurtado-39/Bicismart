@@ -1,0 +1,82 @@
+#include <Adafruit_Sensor.h>
+#include <DHT.h>
+#include <DHT_U.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_SSD1306.h>
+#include <Wire.h>
+#include <NewPing.h>
+
+// ----------------- OLED -----------------
+#define SCREEN_WIDTH 128
+#define SCREEN_HEIGHT 64
+#define OLED_RESET -1
+#define SCREEN_ADDRESS 0x3C
+Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
+
+// ----------------- DHT11 -----------------
+#define DHTPIN 2
+#define DHTTYPE DHT11
+DHT dht(DHTPIN, DHTTYPE);
+
+// ----------------- MQ-2 -----------------
+#define MQ2_PIN A0
+
+// ----------------- HC-SR04 -----------------
+#define TRIG_PIN 3
+#define ECHO_PIN 4
+#define MAX_DISTANCE 200
+NewPing sonar(TRIG_PIN, ECHO_PIN, MAX_DISTANCE);
+
+// ----------------- SETUP -----------------
+void setup() {
+  Serial.begin(9600);
+  dht.begin();
+
+  // Inicializar OLED
+  if (!display.begin(SSD1306_SWITCHCAPVCC, SCREEN_ADDRESS)) {
+    Serial.println(F("No se encontró la pantalla OLED"));
+    while (1);
+  }
+
+  display.clearDisplay();
+  display.setTextColor(SSD1306_WHITE);
+  display.setTextSize(1);
+  display.setCursor(0, 0);
+  display.println("Iniciando sensores...");
+  display.display();
+  delay(2000);
+}
+
+// ----------------- LOOP -----------------
+void loop() {
+  float temperatura = dht.readTemperature();
+  float humedad = dht.readHumidity();
+  int gas = analogRead(MQ2_PIN);
+  delay(50); // Estabilizar lectura
+  float distancia = sonar.ping_cm();
+
+  display.clearDisplay();
+  display.setCursor(0, 0);
+
+  if (isnan(temperatura) || isnan(humedad)) {
+    display.println("Error DHT11");
+  } else {
+    display.print("Temp: ");
+    display.print(temperatura);
+    display.println(" C");
+
+    display.print("Hum: ");
+    display.print(humedad);
+    display.println(" %");
+  }
+
+  display.print("Gas: ");
+  display.println(gas);
+
+  display.print("Dist: ");
+  display.print(distancia);
+  display.println(" cm");
+
+  display.display();
+  delay(2000);
+}
