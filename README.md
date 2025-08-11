@@ -4,6 +4,11 @@
 
 > Una herramienta la cual facilitara el conocimiento de informacion ambiental o fisica sin necesidad de tener internet.
 
+Creado Por: 
+David Santiago Hurtado Suarez
+Manuel Santiago Diaz Sosa
+Jose Andres Villamil Bejarano
+
 ## 🎯 Objetivo del Proyecto
 
 Es un dispositivo el cual esta encargado a brindar la informacion necesaria y crucial que un ciclista requeriria al momento de operar su bicileta, dirigido al publico general.
