@@ -1,12 +1,8 @@
-# Proyecto-11---Bicismart
+## Bicismart
 ![Versión](https://img.shields.io/badge/versión-1.0.0-blue)  
 ![Estado](https://img.shields.io/badge/estado-en%20prototipo-yellow)  
 
 > Una herramienta la cual facilitara el conocimiento de informacion ambiental o fisica sin necesidad de tener internet.
-
-<img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/69306561-e229-44ee-97f2-047a54a804ba" />
-
-
 
 ## 🎯 Objetivo del Proyecto
 
@@ -15,7 +11,7 @@ Es unico en su especie, inspirado en los velocimetros y monitores de bicicletas 
 
 ## 🧪 Prototipo
 
-🔗 **[Ver prototipo funcional(Wowki)]()**  
+🔗 **[Ver prototipo funcional(Wowki)](https://wokwi.com/projects/433286937292244993)**  
 
 
 
@@ -24,11 +20,15 @@ Es unico en su especie, inspirado en los velocimetros y monitores de bicicletas 
 | Prototipo - Pruebas Virtuales | Prototipo - Version Fisica  |
 |--------------------|------------------|-------------|
 <img width="886" height="402" alt="image" src="https://github.com/user-attachments/assets/e2bdac05-8cd1-4233-8508-511dfefbcd51" />
+> Vista del prototipo desde el simulador de la pagina web Wowki.
 
 <img width="700" height="445" alt="image" src="https://github.com/user-attachments/assets/d8888df0-9dc2-446a-a0c5-44715ef2b9f7" />
 
+> Vista del prototipo durante la conexion de cables realizada en clase.
+
 <img width="706" height="417" alt="image" src="https://github.com/user-attachments/assets/693998a3-e307-4df9-9fd8-2ab79ce7e687" />
 
+> Vista del prototipo durante la conexion de cables, perspectiva #2.
 
 ## 🎶Avances Actuales
 
@@ -36,9 +36,7 @@ Hasta ahora se continua el desarrollo del prototipo en fisico, realizando las pr
 
 
 ## 🧰 Tecnologías Utilizadas
-
-**Frontend:**
-- Arduino - C++
+- Arduino - C++ (Programacion de placa, sensores y pruebas.)
 
 
 **Otras herramientas:**
