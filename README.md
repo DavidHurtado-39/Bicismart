@@ -26,7 +26,9 @@ Es unico en su especie, inspirado en los velocimetros y monitores de bicicletas 
 <img width="706" height="417" alt="image" src="https://github.com/user-attachments/assets/693998a3-e307-4df9-9fd8-2ab79ce7e687" />
 
 
+## 🎶Avances Actuales
 
+Hasta ahora se continua el desarrollo del prototipo en fisico, realizando las pruebas finales de operacion y completando detalles finales como conexiones de cables faltantes.
 
 
 ## 🧰 Tecnologías Utilizadas
