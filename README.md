@@ -23,9 +23,9 @@ Es unico en su especie, inspirado en los velocimetros y monitores de bicicletas 
 > Vista del prototipo desde el simulador de la pagina web Wowki.
 
 <img width="700" height="445" alt="image" src="https://github.com/user-attachments/assets/d8888df0-9dc2-446a-a0c5-44715ef2b9f7" />
-
+> Vista del prototipo durante la conexion de cables realizada en clase.
 <img width="706" height="417" alt="image" src="https://github.com/user-attachments/assets/693998a3-e307-4df9-9fd8-2ab79ce7e687" />
-
+> Vista del prototipo durante la conexion de cables, perspectiva #2.
 
 ## 🎶Avances Actuales
 
@@ -33,9 +33,7 @@ Hasta ahora se continua el desarrollo del prototipo en fisico, realizando las pr
 
 
 ## 🧰 Tecnologías Utilizadas
-
-**Frontend:**
-- Arduino - C++
+- Arduino - C++ (Programacion de placa, sensores y pruebas.)
 
 
 **Otras herramientas:**
