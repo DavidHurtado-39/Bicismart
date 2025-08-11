@@ -20,6 +20,7 @@ Es unico en su especie, inspirado en los velocimetros y monitores de bicicletas 
 | Prototipo - Pruebas Virtuales | Prototipo - Version Fisica  |
 |--------------------|------------------|-------------|
 <img width="886" height="402" alt="image" src="https://github.com/user-attachments/assets/e2bdac05-8cd1-4233-8508-511dfefbcd51" />
+> Vista del prototipo desde el simulador de la pagina web Wowki.
 
 <img width="700" height="445" alt="image" src="https://github.com/user-attachments/assets/d8888df0-9dc2-446a-a0c5-44715ef2b9f7" />
 
