@@ -1,65 +1,42 @@
-# 🚀 Nombre del Proyecto //WIP
-
-<img width="1396" height="570" alt="image" src="https://github.com/user-attachments/assets/8d72411d-eabe-4318-8178-2a771a294515" />
-
-
-![Versión](https://img.shields.io/badge/versión-1.0.5-blue)  
+# Proyecto-11---Bicismart
+![Versión](https://img.shields.io/badge/versión-1.0.0-blue)  
 ![Estado](https://img.shields.io/badge/estado-en%20prototipo-yellow)  
-![Licencia](https://img.shields.io/badge/licencia-MIT-green)
 
-> Breve descripción del proyecto: ¿qué hace, para quién está hecho y por qué es importante?
-
----
+> Una herramienta la cual facilitara el conocimiento de informacion ambiental o fisica sin necesidad de tener internet.
 
 ## 🎯 Objetivo del Proyecto
 
-Explica brevemente el propósito general:
-
-- Qué problema busca resolver
-- A qué público está dirigido
-- Qué lo hace diferente o especial
-
----
+Es un dispositivo el cual esta encargado a brindar la informacion necesaria y crucial que un ciclista requeriria al momento de operar su bicileta, dirigido al publico general.
+Es unico en su especie, inspirado en los velocimetros y monitores de bicicletas que existen actualmente y con funciones expandidas las cuales estos no presentan.
 
 ## 🧪 Prototipo
 
-🔗 **[Ver prototipo funcional](https://tuprototipo.netlify.app)**  
-📁 **[Ver prototipo en Figma](https://www.figma.com/file/...)**
+🔗 **[Ver prototipo funcional(Wowki)]()**  
+
+
 
 ### 📸 Capturas
 
-| Pantalla de Inicio | Vista de Usuario | Panel Admin |
+| Prototipo - Pruebas Virtuales | Prototipo - Version Fisica  |
 |--------------------|------------------|-------------|
-|(<img width="302" height="276" alt="image" src="https://github.com/user-attachments/assets/76e99c27-2373-4f38-9dd8-80d045f3cd82" />
-) | ![Usuario](./assets/usuario.png) | ![Admin](./assets/admin.png) |
+<img width="886" height="402" alt="image" src="https://github.com/user-attachments/assets/e2bdac05-8cd1-4233-8508-511dfefbcd51" />
 
----
+<img width="700" height="445" alt="image" src="https://github.com/user-attachments/assets/d8888df0-9dc2-446a-a0c5-44715ef2b9f7" />
+
+<img width="706" height="417" alt="image" src="https://github.com/user-attachments/assets/693998a3-e307-4df9-9fd8-2ab79ce7e687" />
+
+
+## 🎶Avances Actuales
+
+Hasta ahora se continua el desarrollo del prototipo en fisico, realizando las pruebas finales de operacion y completando detalles finales como conexiones de cables faltantes.
+
 
 ## 🧰 Tecnologías Utilizadas
 
 **Frontend:**
-- React / Vue / HTML + CSS + JS  
-- Tailwind CSS / Bootstrap / Material UI
+- Arduino - C++
 
-**Backend:**
-- Node.js / Express / Django / Firebase
-
-**Base de datos:**
-- MongoDB / PostgreSQL / Firestore
 
 **Otras herramientas:**
-- Figma / Adobe XD (diseño)
-- Git / GitHub (control de versiones)
-- Netlify / Vercel / Heroku (despliegue)
-
----
-
-## ⚙️ Instalación
-
-### Requisitos previos
-
-- Node.js ≥ 18  
-- Git instalado  
-- Navegador moderno
-
-### Pasos
+- Wowki (simulacion de prototipos)
+- GitHub (control de versiones)
