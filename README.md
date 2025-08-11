@@ -11,7 +11,7 @@ Es unico en su especie, inspirado en los velocimetros y monitores de bicicletas 
 
 ## 🧪 Prototipo
 
-🔗 **[Ver prototipo funcional(Wowki)]()**  
+🔗 **[Ver prototipo funcional(Wowki)](https://wokwi.com/projects/433286937292244993)**  
 
 
 
