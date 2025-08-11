@@ -5,8 +5,8 @@
 > Una herramienta la cual facilitara el conocimiento de informacion ambiental o fisica sin necesidad de tener internet.
 
 Creado Por: 
-David Santiago Hurtado Suarez
-Manuel Santiago Diaz Sosa
+David Santiago Hurtado Suarez,
+Manuel Santiago Diaz Sosa,
 Jose Andres Villamil Bejarano
 
 ## 🎯 Objetivo del Proyecto
