@@ -4,6 +4,10 @@
 
 > Una herramienta la cual facilitara el conocimiento de informacion ambiental o fisica sin necesidad de tener internet.
 
+<img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/69306561-e229-44ee-97f2-047a54a804ba" />
+
+
+
 ## 🎯 Objetivo del Proyecto
 
 Es un dispositivo el cual esta encargado a brindar la informacion necesaria y crucial que un ciclista requeriria al momento de operar su bicileta, dirigido al publico general.
