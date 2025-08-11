@@ -11,8 +11,8 @@ Es unico en su especie, inspirado en los velocimetros y monitores de bicicletas 
 
 ## 🧪 Prototipo
 
-🔗 **[Ver prototipo funcional](https://tuprototipo.netlify.app)**  
-📁 **[Ver prototipo en Figma](https://www.figma.com/file/...)**
+🔗 **[Ver prototipo funcional]()**  
+📁 **[Ver prototipo en Figma]()**
 
 
 ### 📸 Capturas
