@@ -3,6 +3,7 @@
 ![Estado](https://img.shields.io/badge/estado-en%20prototipo-yellow)  
 
 > Una herramienta la cual facilitara el conocimiento de informacion ambiental o fisica sin necesidad de tener internet.
+> Instalado en el manubrio de la bicicleta.
 
 Creado Por: 
 David Santiago Hurtado Suarez,
